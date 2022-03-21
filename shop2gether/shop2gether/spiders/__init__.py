@@ -1,0 +1,3 @@
+from shop2gether.spiders.adidas import Shop2GAdidasSpider
+from shop2gether.spiders.female_nike import Shop2GNikeFemaleSpider
+from shop2gether.spiders.male_nike import Shop2GNikeMaleSpider
